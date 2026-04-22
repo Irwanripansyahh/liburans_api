@@ -1,7 +1,11 @@
 {
   "year": 2025,
   "source": "https://kalenderku.id/2025",
+<<<<<<< Updated upstream
   "scraped_at": "2026-04-22T04:14:27.452316+00:00",
+=======
+  "scraped_at": "2026-04-22T04:14:56.965874+00:00",
+>>>>>>> Stashed changes
   "holidays": [
     {
       "date": "2025-01-01",
