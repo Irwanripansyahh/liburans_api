@@ -3,6 +3,10 @@ name: Update holidays data
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
+concurrency:
+  group: update-holidays-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   workflow_dispatch:
   schedule:
@@ -19,6 +23,11 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
+
+      - name: Sync with remote
+        run: |
+          git fetch origin
+          git pull --rebase origin "${GITHUB_REF_NAME}"
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -40,10 +49,6 @@ jobs:
 
       - name: Commit changes (if any)
         run: |
-          # Keep branch up-to-date in case remote advanced after the last run
-          git fetch origin
-          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
-
           if git diff --quiet; then
             echo "No changes."
             exit 0
