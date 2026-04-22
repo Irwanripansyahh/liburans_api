@@ -1,0 +1,169 @@
+{
+  "year": 2023,
+  "source": "https://kalenderku.id/2023",
+  "scraped_at": "2026-04-22T03:44:59.200196+00:00",
+  "holidays": [
+    {
+      "date": "2023-01-01",
+      "name": "Tahun Baru 2023 Masehi",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-01-22",
+      "name": "Tahun Baru Imlek 2574 Kongzili",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-01-23",
+      "name": "Cuti Tahun Baru Imlek 2574 Kongzili",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-02-18",
+      "name": "Isra Mikraj Nabi Muhammad SAW",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-03-22",
+      "name": "Hari Suci Nyepi Tahun Baru Saka 1945",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-03-23",
+      "name": "Cuti Hari Suci Nyepi Tahun Baru Saka 1945",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-04-07",
+      "name": "Wafat Yesus Kristus",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-04-19",
+      "name": "Cuti Hari Raya Idulfitri 1444 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-04-20",
+      "name": "Cuti Hari Raya Idulfitri 1444 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-04-21",
+      "name": "Cuti Hari Raya Idulfitri 1444 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-04-22",
+      "name": "Hari Raya Idulfitri 1444 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-04-23",
+      "name": "Hari Raya Idulfitri 1444 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-04-24",
+      "name": "Cuti Hari Raya Idulfitri 1444 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-04-25",
+      "name": "Cuti Hari Raya Idulfitri 1444 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-05-01",
+      "name": "Hari Buruh Internasional",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-05-18",
+      "name": "Kenaikan Yesus Kristus",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-06-01",
+      "name": "Hari Lahir Pancasila",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-06-02",
+      "name": "Cuti Hari Raya Waisak 2567",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-06-04",
+      "name": "Hari Raya Waisak 2567",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-06-28",
+      "name": "Cuti Hari Raya Iduladha 1444 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-06-29",
+      "name": "Hari Raya Iduladha 1444 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-06-30",
+      "name": "Cuti Hari Raya Iduladha 1444 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2023-07-19",
+      "name": "Tahun Baru Islam 1445 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-08-17",
+      "name": "Hari Kemerdekaan Republik Indonesia",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-09-28",
+      "name": "Maulid Nabi Muhammad SAW",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-12-25",
+      "name": "Hari Raya Natal",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2023-12-26",
+      "name": "Cuti Hari Raya Natal",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    }
+  ]
+}

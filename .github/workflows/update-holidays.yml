@@ -1,0 +1,49 @@
+name: Update holidays data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 3 1 * *" # monthly on day 1 at 03:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Scrape kalenderku
+        run: |
+          python scripts/scrape_kalenderku.py --out-dir data/holidays --years-back 2 --end-year $(date -u +%Y)
+
+      - name: Build GitHub Pages assets
+        run: |
+          python scripts/build_pages.py --data-dir data/holidays --docs-dir docs
+
+      - name: Commit changes (if any)
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/holidays/*.json docs/*
+          git commit -m "Update holidays data (kalenderku.id)"
+          git push

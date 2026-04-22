@@ -1,0 +1,109 @@
+{
+  "year": 2021,
+  "source": "https://kalenderku.id/2021",
+  "scraped_at": "2026-04-22T03:49:08.679476+00:00",
+  "holidays": [
+    {
+      "date": "2021-01-01",
+      "name": "Tahun Baru 2021 Masehi",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-02-12",
+      "name": "Tahun Baru Imlek 2572 Kongzili",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-03-11",
+      "name": "Isra Mikraj Nabi Muhammad SAW",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-03-14",
+      "name": "Hari Suci Nyepi Tahun Baru Saka 1943",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-04-02",
+      "name": "Wafat Yesus Kristus",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-05-01",
+      "name": "Hari Buruh Internasional",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-05-12",
+      "name": "Cuti Hari Raya Idulfitri 1442 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2021-05-13",
+      "name": "Hari Raya Idulfitri 1442 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-05-13",
+      "name": "Kenaikan Yesus Kristus",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-05-14",
+      "name": "Hari Raya Idulfitri 1442 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-05-26",
+      "name": "Hari Raya Waisak 2565",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-06-01",
+      "name": "Hari Lahir Pancasila",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-07-20",
+      "name": "Hari Raya Iduladha 1442 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-08-11",
+      "name": "Tahun Baru Islam 1443 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-08-17",
+      "name": "Hari Kemerdekaan Republik Indonesia",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-10-20",
+      "name": "Maulid Nabi Muhammad SAW",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2021-12-25",
+      "name": "Hari Raya Natal",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    }
+  ]
+}

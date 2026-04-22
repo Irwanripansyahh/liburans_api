@@ -1,0 +1,133 @@
+{
+  "year": 2020,
+  "source": "https://kalenderku.id/2020",
+  "scraped_at": "2026-04-22T03:48:37.514444+00:00",
+  "holidays": [
+    {
+      "date": "2020-01-01",
+      "name": "Tahun Baru 2020 Masehi",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-01-25",
+      "name": "Tahun Baru Imlek 2571 Kongzili",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-03-22",
+      "name": "Isra Mikraj Nabi Muhammad SAW",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-03-25",
+      "name": "Hari Suci Nyepi Tahun Baru Saka 1942",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-04-10",
+      "name": "Wafat Yesus Kristus",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-05-01",
+      "name": "Hari Buruh Internasional",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-05-07",
+      "name": "Hari Raya Waisak 2564",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-05-21",
+      "name": "Kenaikan Yesus Kristus",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-05-24",
+      "name": "Hari Raya Idulfitri 1441 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-05-25",
+      "name": "Hari Raya Idulfitri 1441 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-06-01",
+      "name": "Hari Lahir Pancasila",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-07-31",
+      "name": "Hari Raya Iduladha 1441 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-08-17",
+      "name": "Hari Kemerdekaan Republik Indonesia",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-08-20",
+      "name": "Tahun Baru Islam 1442 Hijriah",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-08-21",
+      "name": "Cuti Tahun Baru Islam 1442 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2020-10-28",
+      "name": "Cuti Maulid Nabi Muhammad SAW",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2020-10-29",
+      "name": "Maulid Nabi Muhammad SAW",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-10-30",
+      "name": "Cuti Maulid Nabi Muhammad SAW",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2020-12-24",
+      "name": "Cuti Hari Raya Natal",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    },
+    {
+      "date": "2020-12-25",
+      "name": "Hari Raya Natal",
+      "type": "Libur Nasional",
+      "holiday_type": "libur"
+    },
+    {
+      "date": "2020-12-31",
+      "name": "Cuti Pengganti Hari Raya Idulfitri 1441 Hijriah",
+      "type": "Cuti Bersama",
+      "holiday_type": "cuti"
+    }
+  ]
+}
