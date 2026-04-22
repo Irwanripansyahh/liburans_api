@@ -40,6 +40,10 @@ jobs:
 
       - name: Commit changes (if any)
         run: |
+          # Keep branch up-to-date in case remote advanced after the last run
+          git fetch origin
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+
           if git diff --quiet; then
             echo "No changes."
             exit 0
